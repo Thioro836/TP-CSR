@@ -1,5 +1,5 @@
 # TP-CSR
-Application du cours sur la Coopération et concurrence dans les systèmes et réseaux: Construction d'une usine
+Application du cours sur la Coopération et concurrence dans les systèmes et réseaux: Construction d'une usine.
 Description
 Ce projet a pour but d'appliquer les concepts de coopération et de concurrence dans les systèmes et réseaux. L'objectif principal est de comprendre les problèmes de concurrence entre les programmes, de synchronisation et d'ordonnancement à l'aide de threads.
 1. Classes et Fonctionnalités
