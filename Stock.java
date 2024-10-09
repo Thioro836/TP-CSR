@@ -62,8 +62,7 @@ class Stock {
         }
          nbPieces--;
         System.out.println("le thread courant est " + Thread.currentThread().getName() +" Le stock " + nom + " contient " + nbPieces + " piece(s).");
-
-    
+        notifyAll();
        
     }
         
