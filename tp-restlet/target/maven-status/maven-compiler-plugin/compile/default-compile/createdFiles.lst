@@ -1,0 +1,8 @@
+org\inria\restlet\mta\resources\UserResource.class
+org\inria\restlet\mta\main\Main.class
+org\inria\restlet\mta\resources\TweetResource.class
+org\inria\restlet\mta\internals\Tweet.class
+org\inria\restlet\mta\database\InMemoryDatabase.class
+org\inria\restlet\mta\internals\User.class
+org\inria\restlet\mta\application\MyTwitterApplication.class
+org\inria\restlet\mta\resources\UsersResource.class
